@@ -3,3 +3,4 @@ function sayHello(name: string): string {
 }
 
 console.log(sayHello("world"));
+/* 공부 하기 */
